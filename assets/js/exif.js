@@ -124,7 +124,6 @@
         0x0214 : "ReferenceBlackWhite",
         0x0132 : "DateTime",
         0x010E : "ImageDescription",
-        0x010F : "Make",
         0x0110 : "Model",
         0x0131 : "Software",
         0x013B : "Artist",
